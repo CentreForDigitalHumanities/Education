@@ -13,7 +13,9 @@ Collection of the teaching and educational materials for Digital Humanities rese
 | [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | [Under construction] |
 
 ## Staff Education Program
-Every semester, the [Centre for Digital Humanities](https://cdh.uu.nl/) presents its new [staff education program](https://cdh.uu.nl/education/staff-education-program/), featuring a diverse range of courses, lectures and hands-on workshops, covering various aspects of digital humanities. In addition to our regular program, we also offer [Tailor-made Workshops](https://cdh.uu.nl/education/tailor-made-workshops/) upon request.
+The materials above where mainly developed for workshops, given at Utrecht University. Every semester, the [Centre for Digital Humanities](https://cdh.uu.nl/) presents its new [staff education program](https://cdh.uu.nl/education/staff-education-program/), featuring a diverse range of courses, lectures and hands-on workshops, covering various aspects of digital humanities. In addition to our regular program, we also offer [Tailor-made Workshops](https://cdh.uu.nl/education/tailor-made-workshops/) upon request.
+
+If you would like to be informed about this program and other updates from the CDH, sign up for [the CDH newsletter](https://mailings.uu.nl/hp/zsxm93h5hp0UAN1karWBQw/subscribe_newsletter_centre_for_digital_humanities).
 
 # Resources
 Digital Humanities research involves different types of (source) material, please find recommendations on the Centre for Digital Humanities website on:
