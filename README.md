@@ -3,7 +3,7 @@ Collection of the teaching and educational materials for Digital Humanities rese
 
 | Repository | Description |
 | --- | --- |
-| [Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) | Textbook on Quantitative Methods and Statistics. Also available in [Dutch](https://github.com/hugoquene/KMS-NL). |
+| [Quantitative Methods and Statistics](https://github.com/hugoquene/QMS-EN) | Textbook on Quantitative Methods and Statistics. Also in [Dutch](https://github.com/hugoquene/KMS-NL). |
 | [Basics of Statistics](https://github.com/CentreForDigitalHumanities/Basics-of-Statistics) | One-day course for Humanities researchers. |
 | [Gephi](https://github.com/CentreForDigitalHumanities/Gephi/) | Introductory course on network visualization for Humanities. |
 | [Programming in Python](https://github.com/UUDigitalHumanitieslab/programming-in-python) | Entry level course on the basics of the Python programming language. Special attention is given to best practices in coding, e.g.: writing clean code and documentation. |
