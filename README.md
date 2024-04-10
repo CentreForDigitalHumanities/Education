@@ -10,7 +10,7 @@ Collection of the teaching and educational materials for Digital Humanities rese
 | [R for Humanities](https://github.com/CentreForDigitalHumanities/workshop-r-for-humanities) | Basics in R syntax, to data handling and visualisation using a set of tools known as the ‘tidyverse’ | 
 | [LaTeX](https://github.com/CentreForDigitalHumanities/latex-workshop) |  Introductory workshop for LaTeX aimed at Humanities students and staff. |
 | [Data exploration toolkit for cultural data](https://github.com/CentreForDigitalHumanities/det_cultural_data) | [Under construction] Structure, clean, visualize, and run a preliminary analysis. |
-| [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | [Under construction] |
+| [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | Introduction into web scraping with Python, with the use of Replit. |
 
 ## Staff Education Program
 The materials above where mainly developed for workshops, given at Utrecht University. Every semester, the [Centre for Digital Humanities](https://cdh.uu.nl/) presents its new [staff education program](https://cdh.uu.nl/education/staff-education-program/), featuring a diverse range of courses, lectures and hands-on workshops, covering various aspects of digital humanities. In addition to our regular program, we also offer [Tailor-made Workshops](https://cdh.uu.nl/education/tailor-made-workshops/) upon request.
