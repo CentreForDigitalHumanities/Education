@@ -9,7 +9,7 @@ Collection of the teaching and educational materials for Digital Humanities rese
 | [Programming in Python](https://github.com/UUDigitalHumanitieslab/programming-in-python) | Entry level course on the basics of the Python programming language. Special attention is given to best practices in coding, e.g.: writing clean code and documentation. |
 | [R for Humanities](https://github.com/CentreForDigitalHumanities/workshop-r-for-humanities) | Basics in R syntax, to data handling and visualisation using a set of tools known as the ‘tidyverse’ | 
 | [LaTeX](https://github.com/CentreForDigitalHumanities/latex-workshop) |  Introductory workshop for LaTeX aimed at Humanities students and staff. |
-| [Data exploration toolkit for cultural data](https://github.com/CentreForDigitalHumanities/det_cultural_data) | [Under construction] Structure, clean, visualize, and run a preliminary analysis. |
+| [Data exploration toolkit for cultural data](https://github.com/CentreForDigitalHumanities/det_cultural_data) | Structure, clean, visualize, and run a preliminary analysis. |
 | [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | Introduction into web scraping with Python, with the use of Replit. |
 
 ## Staff Education Program
