@@ -32,4 +32,4 @@ The privacy officer and data manager created [an overview](https://cdh.uu.nl/res
 # Contact
 If you find yourself missing materials or have any inquiries regarding our resources, please don't hesitate to contact us via cdh@uu.nl or visit our website at [cdh.uu.nl](https://cdh.uu.nl/) for more information on how we can assist you.
 
-<img src="https://github.com/CentreForDigitalHumanities/Education/blob/main/img/UU-CDH_logo_EN_def_UU_CDH_logo_EN_yellowwhite.jpg" widht="300">
+<img src="https://github.com/CentreForDigitalHumanities/Education/blob/main/img/UU-CDH_logo_EN_def_UU_CDH_logo_EN_yellowwhite.jpg" width="300">
