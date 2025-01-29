@@ -13,16 +13,16 @@ Collection of the teaching and educational materials for Digital Humanities rese
 | [Web scraping](https://github.com/CentreForDigitalHumanities/workshop-web-scraping) | Introduction into web scraping with Python, with the use of Replit. |
 
 ## Staff Education Program
-The materials above where mainly developed for workshops, given at Utrecht University. Every semester, the [Centre for Digital Humanities](https://cdh.uu.nl/) presents its new [staff education program](https://cdh.uu.nl/education/staff-education-program/), featuring a diverse range of courses, lectures and hands-on workshops, covering various aspects of digital humanities. In addition to our regular program, we also offer [Tailor-made Workshops](https://cdh.uu.nl/education/tailor-made-workshops/) upon request.
+The materials above where mainly developed for workshops, given at Utrecht University. Every semester, the [Centre for Digital Humanities](https://cdh.uu.nl/) presents its new [staff education program](https://cdh.uu.nl/cdh-training-programme/), featuring a diverse range of courses, lectures and hands-on workshops, covering various aspects of digital humanities. In addition to our regular program, we also offer [Tailor-made Workshops](https://cdh.uu.nl/training/tailor-made-workshops/) upon request.
 
 If you would like to be informed about this program and other updates from the CDH, sign up for [the CDH newsletter](https://mailings.uu.nl/hp/zsxm93h5hp0UAN1karWBQw/subscribe_newsletter_centre_for_digital_humanities).
 
 # Resources
 Digital Humanities research involves different types of (source) material, please find recommendations on the Centre for Digital Humanities website on:
-- [Digital tools](https://cdh.uu.nl/research/resources/tools/)
-- [Corpora](https://cdh.uu.nl/research/resources/corpora/)
+- [Digital tools](https://cdh.uu.nl/resources/?_resource_type=digital-tools)
+- [Corpora](https://cdh.uu.nl/resources/?_resource_type=corpora)
 - [Reading tips](https://cdh.uu.nl/research/resources/reading/)
-- [Tutorials](https://cdh.uu.nl/research/resources/tutorials/)
+- [Tutorials](https://cdh.uu.nl/resources/?_resource_type=training-materials)
 
 # Data Management & Privacy
 The privacy officer and data manager created [an overview](https://cdh.uu.nl/research/data-management-privacy/) outlining, including [road map](https://cdh.uu.nl/research/data-management-privacy/road-map/) and [prerequisites and processing time](https://cdh.uu.nl/research/data-management-privacy/prerequisites-and-processing-time/), with the necessary actions based on the type of research data you are handling. For more information see:
